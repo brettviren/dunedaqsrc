@@ -1,0 +1,57 @@
+[submodule "daq-cmake"]
+	path = daq-cmake
+	url = https://github.com/DUNE-DAQ/daq-cmake.git
+[submodule "ers"]
+	path = ers
+	url = https://github.com/DUNE-DAQ/ers.git
+[submodule "logging"]
+	path = logging
+	url = https://github.com/DUNE-DAQ/logging.git
+[submodule "cmdlib"]
+	path = cmdlib
+	url = https://github.com/DUNE-DAQ/cmdlib.git
+[submodule "rcif"]
+	path = rcif
+	url = https://github.com/DUNE-DAQ/rcif.git
+[submodule "appfwk"]
+	path = appfwk
+	url = https://github.com/DUNE-DAQ/appfwk.git
+[submodule "listrev"]
+	path = listrev
+	url = https://github.com/DUNE-DAQ/listrev.git
+[submodule "dataformats"]
+	path = dataformats
+	url = https://github.com/DUNE-DAQ/dataformats.git
+[submodule "dfmessages"]
+	path = dfmessages
+	url = https://github.com/DUNE-DAQ/dfmessages.git
+[submodule "dfmodules"]
+	path = dfmodules
+	url = https://github.com/DUNE-DAQ/dfmodules.git
+[submodule "flxlibs"]
+	path = flxlibs
+	url = https://github.com/DUNE-DAQ/flxlibs.git
+[submodule "ipm"]
+	path = ipm
+	url = https://github.com/DUNE-DAQ/ipm.git
+[submodule "nwqueueadapters"]
+	path = nwqueueadapters
+	url = https://github.com/DUNE-DAQ/nwqueueadapters.git
+[submodule "opmonlib"]
+	path = opmonlib
+	url = https://github.com/DUNE-DAQ/opmonlib.git
+[submodule "readout"]
+	path = readout
+	url = https://github.com/DUNE-DAQ/readout.git
+[submodule "restcmd"]
+	path = restcmd
+	url = https://github.com/DUNE-DAQ/restcmd.git
+[submodule "serialization"]
+	path = serialization
+	url = https://github.com/DUNE-DAQ/serialization.git
+[submodule "trigemu"]
+	path = trigemu
+	url = https://github.com/DUNE-DAQ/trigemu.git
+[submodule "minidaqapp"]
+	path = minidaqapp
+	url = https://github.com/DUNE-DAQ/minidaqapp.git
